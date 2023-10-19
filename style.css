@@ -1,0 +1,102 @@
+body{
+background-color:yellow;
+}
+.div1{
+text-align: center;
+width:40%;
+height: 165px;
+margin-left: 85px;
+float:left;
+padding: 70px 50px 50px 50px;
+border: 8px solid black;
+}
+.div2{
+text-align:center;
+width:30%;
+padding: 40px;
+height: 205px;
+float:right;
+background-color:yellow;
+margin-right: 100px;
+border: 8px solid black;
+}
+.div3{
+height:350px;
+background-color:yellow;
+}
+.div3:hover{
+background-color:yellow;
+}
+.empt{
+height:380px;
+background-color:yellow;
+}
+.empt:hover{
+background-color:yellow;
+}
+.no4{
+text-align:center;
+width:40%;
+float:left;
+height:225px;
+margin-left: 100px;
+padding: 60px 50px 0px 50px;
+border: 8px solid black;
+}
+.img3{
+text-align: center;
+width:30%;
+background-color:yellow;
+float:right;
+height:200px;
+margin-right: 85px;
+border: 8px solid black;
+padding: 40px;
+}
+div{
+font-size: 25px;
+background-color:powderblue;
+margin-bottom:30px;
+}
+div:hover{
+background-color:pink;
+}
+h1{
+text-shadow: 2px 2px 50px green;
+color:red;
+text-align : center;
+text-decoration: blue wavy underline
+}
+h2{
+color:blue;
+text-decoration: red dotted underline
+}
+h3{
+color:daer green;
+text-decoration: black dashed underline
+}
+p{
+background-color:powderblue;
+}
+p:hover{
+background-color:pink;
+}
+img{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+border: 5px solid #555;
+}
+hr{
+  border: 3px solid black;
+  border-radius: 3px;
+}
+ol{
+background-color:powderblue;
+}
+ol{
+background-color:powderblue;
+}
+ol:hover{
+background-color:pink;
+}
